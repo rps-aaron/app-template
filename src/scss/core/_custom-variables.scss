@@ -1,0 +1,6 @@
+// Set the base path for assets (used for font and image paths below)
+$asset-path: '../' !default;
+
+// Relative font and image file paths
+$font-path: '#{$asset-path}fonts' !default;
+$image-path: '#{$asset-path}img' !default;
